@@ -26,7 +26,7 @@ Designed as a data-driven decision tool to help investors understand trends and 
 ## ⚙️ Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AI-Investment-Dashboard.git
+git clone https://github.com/KomaliG7/AI-Investment-Dashboard.git
 cd AI-Investment-Dashboard
 
 # Create a virtual environment
