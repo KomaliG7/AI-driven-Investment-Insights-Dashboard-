@@ -1,0 +1,8 @@
+streamlit>=1.24.0
+pandas>=2.0
+numpy>=1.25
+plotly>=5.0
+boto3>=1.26
+scikit-learn>=1.2
+yfinance>=0.2.26
+prophet>=1.2.0    # optional later (or use statsmodels/ARIMA) — comment out if issues
